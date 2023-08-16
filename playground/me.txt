@@ -1,6 +1,0 @@
-{{#user}
-Name: Dev Johri
-Skills: HTML, CSS, JS, Next.js
-Email: dev.jorhi15@gmail.com
-{{/user}}
-
